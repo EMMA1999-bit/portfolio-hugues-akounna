@@ -1,3 +1,4 @@
+# Construction du portfolio et publication du dossier généré.
 [build]
   base = "."
   command = "python3 build.py"
