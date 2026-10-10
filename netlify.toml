@@ -1,0 +1,4 @@
+[build]
+  base = "."
+  command = "python3 build.py"
+  publish = "dist"
