@@ -1,0 +1,182 @@
+{
+  "PROJECTS": [
+    {
+      "slug": "digitalisation-cedeao",
+      "kind": "Recherche · mémoire de master",
+      "kind_en": "Research · master’s thesis",
+      "year": "2026",
+      "tags": [
+        "Économie",
+        "Données",
+        "Développement",
+        "Numérique"
+      ],
+      "title": "Digitalisation et transformation structurelle des économies de la CEDEAO",
+      "title_en": "Digitalisation and structural transformation in ECOWAS economies",
+      "summary": "Le numérique favorise-t-il l’industrialisation et la diversification des exportations ? Une analyse comparative de quinze économies, de 2000 à 2023.",
+      "summary_en": "Does digital adoption support industrialisation and export diversification? A comparative study of 15 economies from 2000 to 2023.",
+      "context": "Le travail examine deux dimensions de la transformation structurelle : la part de la valeur ajoutée industrielle et la diversification des exportations. Il confronte l’expansion des TIC aux trajectoires productives de la CEDEAO.",
+      "context_en": "This research studies two dimensions of structural transformation: industry’s share of value added and export diversification. It compares the spread of digital technologies with productive change across ECOWAS.",
+      "method": "Panel de quinze pays de la CEDEAO sur la période 2000–2023. Construction des indicateurs, contrôle des valeurs manquantes et des ruptures de série, puis diagnostics et estimations économétriques sous Stata. La spécification fait actuellement l’objet de vérifications.",
+      "method_en": "Panel of fifteen ECOWAS countries covering 2000–2023. Indicator construction, checks for missing observations and series breaks, followed by diagnostics and econometric estimation in Stata. The specification is currently being reviewed.",
+      "finding": "Le travail interroge le lien entre diffusion des TIC, part de la valeur ajoutée industrielle et diversification des exportations. Les estimations et leur robustesse sont en cours de révision. Les conclusions seront consolidées après validation de la méthode ; les associations observées ne suffisent pas à établir une causalité.",
+      "finding_en": "The study examines links between ICT adoption, industry’s share of value added and export diversification. Estimates and robustness checks are under review. Conclusions will be consolidated after the method is validated; observed associations alone do not establish causality.",
+      "status": "Mémoire de master en révision. Cette présentation décrit la question et la démarche ; le manuscrit et les résultats définitifs ne sont pas diffusés.",
+      "status_en": "Master’s thesis under review. This overview describes the question and approach; the manuscript and final results are not distributed."
+    },
+    {
+      "slug": "finance-productivite",
+      "kind": "Projet de recherche",
+      "kind_en": "Research project",
+      "year": "2026",
+      "tags": [
+        "Économie",
+        "Finance",
+        "Données"
+      ],
+      "title": "Développement financier et productivité sectorielle en Afrique de l’Ouest",
+      "title_en": "Financial development and sector productivity in West Africa",
+      "summary": "Une exploration des liens entre intermédiation financière et performances de l’agriculture, de l’industrie et des services.",
+      "summary_en": "An exploration of links between financial intermediation and outcomes in agriculture, industry and services.",
+      "context": "Ce chantier antérieur à mon mémoire actuel interroge les écarts entre secteurs face à l’approfondissement financier dans les économies ouest-africaines.",
+      "context_en": "An earlier research track, preceding my current thesis, asks how sectors differ in their response to financial deepening in West African economies.",
+      "method": "Construction d’un panel de pays et d’indicateurs sectoriels ; estimations sous Stata et vérification des propriétés des données avant interprétation.",
+      "method_en": "Country panel and sector indicators; Stata estimations with data diagnostics before interpreting coefficients.",
+      "finding": "Travail exploratoire. Les spécifications et résultats ne sont pas présentés comme une étude publiée ou une conclusion définitive.",
+      "finding_en": "Exploratory work. Specifications and estimates are not presented as a published study or definitive conclusion.",
+      "status": "Projet de recherche antérieur · synthèse méthodologique.",
+      "status_en": "Earlier research project · methodological summary."
+    },
+    {
+      "slug": "irrigation-securite-alimentaire",
+      "kind": "Mémoire de licence",
+      "kind_en": "Undergraduate dissertation",
+      "year": "2023",
+      "tags": [
+        "Agriculture",
+        "Développement",
+        "Données"
+      ],
+      "title": "Irrigation et sécurité alimentaire des maraîchers",
+      "title_en": "Irrigation and food security among market gardeners",
+      "summary": "Étude appliquée des conditions de production agricole et de la sécurité alimentaire dans le cadre de ma licence.",
+      "summary_en": "Applied study of agricultural production conditions and food security during my undergraduate degree.",
+      "context": "L’accès à l’eau est un enjeu majeur pour la régularité des productions maraîchères et la sécurité alimentaire des exploitants.",
+      "context_en": "Water access matters for the stability of market gardening output and growers’ food security.",
+      "method": "Enquête et analyse économétrique réalisées dans le cadre du mémoire de licence en économie et gestion des exploitations agricoles.",
+      "method_en": "Survey and econometric analysis for an undergraduate dissertation in agricultural economics and farm management.",
+      "finding": "Cette page présente le sujet et la démarche. Les résultats chiffrés ne sont pas reproduits ici sans vérification du manuscrit.",
+      "finding_en": "This page outlines the topic and approach. Numerical findings are withheld pending verification against the dissertation.",
+      "status": "Mémoire de licence · 2023.",
+      "status_en": "Undergraduate dissertation · 2023."
+    },
+    {
+      "slug": "indicateurs-agricoles",
+      "kind": "Expérience de terrain",
+      "kind_en": "Field experience",
+      "year": "2023",
+      "tags": [
+        "Agriculture",
+        "Données",
+        "Développement"
+      ],
+      "title": "Données et suivi des indicateurs agricoles au Bénin",
+      "title_en": "Agricultural data and indicator monitoring in Benin",
+      "summary": "Collecte, traitement et reporting au service du suivi sectoriel au sein du SESSEC de la DDAEP Zou.",
+      "summary_en": "Data collection, processing and reporting to support sector monitoring at SESSEC, DDAEP Zou.",
+      "context": "Une information sectorielle exploitable dépend de données contrôlées, documentées et restituées dans un format utile aux équipes techniques.",
+      "context_en": "Useful sector intelligence depends on checked, documented data presented in a way technical teams can use.",
+      "method": "Participation aux opérations de collecte et de traitement de statistiques agricoles, suivi d’indicateurs et préparation de supports de reporting.",
+      "method_en": "Contributed to agricultural statistics collection and processing, indicator monitoring and reporting materials.",
+      "finding": "Cette expérience a renforcé ma pratique de la qualité des données et de la traduction d’indicateurs en supports d’aide au suivi. Les données internes ne sont pas publiées ici.",
+      "finding_en": "This work strengthened my practice of data quality and turning indicators into monitoring materials. Internal data are not published here.",
+      "status": "Stage SESSEC · DDAEP Zou · 2023.",
+      "status_en": "SESSEC internship · DDAEP Zou · 2023."
+    }
+  ],
+  "INSIGHTS": [
+    {
+      "slug": "numerique-transformation",
+      "year": "2026",
+      "tags": [
+        "Économie",
+        "Développement",
+        "Numérique"
+      ],
+      "kind": "Note de recherche · manuscrit en révision",
+      "kind_en": "Research note · manuscript under review",
+      "title": "Numérique et transformation structurelle : que montre le cas de la CEDEAO ?",
+      "title_en": "Digital adoption and structural change: lessons from ECOWAS",
+      "summary": "Distinguer la diffusion numérique de la transformation productive : la question au cœur de mon mémoire.",
+      "summary_en": "Distinguishing digital adoption from productive change: the question at the heart of my thesis.",
+      "paragraphs": [
+        "La diffusion d’Internet et de la téléphonie mobile transforme l’accès à l’information, les échanges et l’organisation des activités. Une question différente se pose à l’échelle macroéconomique : ces usages s’accompagnent-ils d’une modification de la structure productive ?",
+        "Mon mémoire examine deux dimensions sur un panel de quinze pays de la CEDEAO, de 2000 à 2023 : la part de la valeur ajoutée industrielle et la diversification des exportations. L’objectif est de confronter une question économique précise à des indicateurs comparables entre pays et dans le temps.",
+        "Cette comparaison demande de distinguer les niveaux et les parts, de contrôler les valeurs manquantes et de repérer les ruptures de série. Elle exige aussi de tenir compte des chocs communs et des différences entre les trajectoires nationales.",
+        "La méthode et les estimations sont actuellement en révision. Cette note présente la question de recherche, sans figer une conclusion empirique. Les résultats ne seront interprétés qu’avec leurs diagnostics, leurs limites et les vérifications de robustesse."
+      ],
+      "paragraphs_en": [
+        "Internet and mobile adoption change access to information, exchange and the organisation of activity. A separate macroeconomic question is whether those uses are associated with changes in productive structures.",
+        "My thesis examines two dimensions in a panel of fifteen ECOWAS countries from 2000 to 2023: industry’s share of value added and export diversification. The goal is to confront a precise economic question with indicators comparable across countries and over time.",
+        "Such a comparison requires distinguishing levels from shares, checking missing observations and identifying breaks in series. It must also account for common shocks and differences in national trajectories.",
+        "The method and estimates are currently under review. This note presents the research question without fixing an empirical conclusion. Results will be interpreted alongside their diagnostics, limitations and robustness checks."
+      ],
+      "source": "Présentation du mémoire en cours de révision. Données : indicateurs WDI de la Banque mondiale et indicateur de diversification des exportations utilisé dans le manuscrit. Cette note n’est pas un article scientifique publié.",
+      "source_en": "Overview of a thesis under review. Data: World Bank WDI indicators and the export diversification indicator used in the manuscript. This note is not a published academic article."
+    },
+    {
+      "slug": "donnees-politiques",
+      "year": "2026",
+      "tags": [
+        "Données",
+        "Développement"
+      ],
+      "kind": "Note de méthode",
+      "kind_en": "Methods note",
+      "title": "Des données aux décisions : quatre questions avant d’interpréter un indicateur",
+      "title_en": "From data to decisions: four questions to ask of an indicator",
+      "summary": "Couverture, définition, comparabilité et incertitude : une courte grille de lecture pour les projets de développement.",
+      "summary_en": "Coverage, definition, comparability and uncertainty: a short reading guide for development projects.",
+      "paragraphs": [
+        "Un indicateur prend son sens dans une décision précise. Avant d’interpréter son évolution, il faut identifier ce qu’il mesure, la population couverte et les changements éventuels de définition.",
+        "La comparaison entre pays ou périodes suppose de vérifier les unités, les valeurs manquantes et les ruptures de série. Une moyenne régionale peut aussi masquer des écarts importants entre pays.",
+        "Enfin, une corrélation n’établit pas une cause. Pour éclairer une politique, j’associe les résultats à leurs limites, aux hypothèses utilisées et aux vérifications qu’il reste à mener."
+      ],
+      "paragraphs_en": [
+        "An indicator is useful in relation to a specific decision. Before reading a trend, identify what it measures, who is covered and whether the definition has changed.",
+        "Comparisons across countries or periods require checks on units, missing observations and breaks in the series. A regional average can hide wide country differences.",
+        "Finally, correlation does not establish causation. I communicate findings together with their limitations, assumptions and the additional checks required for a policy decision."
+      ],
+      "source": "Note originale de méthode ; aucun résultat empirique inédit n’est présenté.",
+      "source_en": "Original methods note; no new empirical estimate is presented."
+    },
+    {
+      "slug": "ia-recherche",
+      "year": "2026",
+      "tags": [
+        "IA",
+        "Données"
+      ],
+      "kind": "Note de pratique · brouillon éditorial",
+      "kind_en": "Practice note · editorial draft",
+      "title": "L’IA dans la recherche : organiser, puis vérifier",
+      "title_en": "AI in research: organise, then verify",
+      "summary": "Un cadre de travail pour utiliser l’IA comme appui à la recherche et garder la maîtrise des sources et des résultats.",
+      "summary_en": "A framework for using AI as a research assistant while keeping control of sources and findings.",
+      "paragraphs": [
+        "L’intérêt de l’IA pour la recherche commence par des tâches bien définies : reformuler une question, structurer une revue de littérature, proposer un plan de code ou clarifier une explication. La qualité de la réponse dépend du contexte et des documents fournis.",
+        "Pour les sources, une proposition doit rester une piste jusqu’à sa vérification dans le document original. Il faut contrôler l’existence du texte, ses auteurs, sa date et le passage qui soutient l’argument. Une référence plausible n’est pas une référence vérifiée.",
+        "Pour les analyses, un script doit être exécuté et contrôlé. Les unités, le traitement des valeurs manquantes, la construction des variables et le choix du modèle restent des décisions du chercheur. Un coefficient ne gagne pas en validité parce qu’il est bien expliqué.",
+        "Un usage utile conserve donc une trace des décisions, du code et des limites. L’IA peut accélérer la préparation et la communication ; la responsabilité de l’interprétation et de la validation reste humaine."
+      ],
+      "paragraphs_en": [
+        "AI can help research through clearly defined tasks: refining a question, structuring a literature review, proposing a coding plan or clarifying an explanation. Response quality depends on the context and documents provided.",
+        "A suggested source remains a lead until checked in the original document. Its existence, authors, date and the passage supporting the argument must be verified. A plausible reference is not a verified reference.",
+        "For analysis, a script must be executed and checked. Units, missing observations, variable construction and model selection remain the researcher’s decisions. A well-explained coefficient does not become more valid.",
+        "Useful practice therefore retains a record of decisions, code and limitations. AI can speed up preparation and communication; responsibility for interpretation and validation remains human."
+      ],
+      "source": "Texte éditorial préparé pour ce portfolio, à relire avant diffusion publique. Aucune étude empirique ni réalisation technique n’est revendiquée.",
+      "source_en": "Editorial text prepared for this portfolio, to review before public release. It makes no claim of an empirical study or technical implementation."
+    }
+  ]
+}
